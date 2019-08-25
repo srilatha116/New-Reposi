@@ -9,7 +9,10 @@ public class GitTest {
 		System.out.println("gitprogram");
 		System.out.println("gitprogram");
 		System.out.println("pulling and pushing");
-	
+		
+		System.out.println("pulling and pushing");
+		System.out.println("pulling and pushing");
+		
 	}
 
 }
